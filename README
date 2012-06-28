@@ -1,8 +1,8 @@
 xxHash-Python
 =============
 
-xxHash-Python is an implementation of pure python xxhash.In facts, xxhash is an extremely fast Hash algorithm.
-here is what xxhash can do comes from offical project site: http://code.google.com/p/xxhash/.
+xxHash-Python is an implementation of pure python hash algorithm xxHash. In facts, xxHash is an extremely fast Hash algorithm.
+here is what xxHash can do comes from offical project site: http://code.google.com/p/xxhash/.
 
 Numbers Time
 ------------
@@ -30,7 +30,7 @@ Currently only xxHashfast32.
 Next?
 ------------
 
-Complete xxHashSmall, xxHashStrong impl.
+Complete xxHashSmall, xxHashStrong impl and module setup.
 
 
 Usage
@@ -56,6 +56,6 @@ Contributing
 1. Fork it.
 2. Create a branch (`git checkout -b xxhash_python`)
 3. Commit your changes (`git commit -am "Saber Chafrouda"`)
-4. Push to the branch (`git push origin xxh_pypy`)
+4. Push to the branch (`git push origin xxhash_python`)
 5. Create an [Issue][1] with a link to your branch
 6. Enjoy a refreshing Diet Coke and wait
